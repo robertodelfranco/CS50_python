@@ -1,7 +1,6 @@
 def main():
 	str = input("What is the Answer to the Great Question of Life, the Universe, and Everything? ").strip();
-	conditionals(str);
-
+	conditionals(str)
 
 def conditionals(str):
 	match str:

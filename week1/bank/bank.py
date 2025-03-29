@@ -16,7 +16,7 @@ main()
 
 
 # def main():
-#     name = input("Gretting: ").strip().title()
+#     name = input("Greeting: ").strip().title()
 
 #     if name.startswith("Hello"):
 #         print("$0")
